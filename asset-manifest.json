@@ -1,30 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf6a9b55.chunk.css",
-    "main.js": "/static/js/main.a4eb150b.chunk.js",
-    "main.js.map": "/static/js/main.a4eb150b.chunk.js.map",
+    "main.css": "/static/css/main.5ccdba69.chunk.css",
+    "main.js": "/static/js/main.2a348285.chunk.js",
+    "main.js.map": "/static/js/main.2a348285.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a47980ea.js",
     "runtime-main.js.map": "/static/js/runtime-main.a47980ea.js.map",
-    "static/js/2.0a13b856.chunk.js": "/static/js/2.0a13b856.chunk.js",
-    "static/js/2.0a13b856.chunk.js.map": "/static/js/2.0a13b856.chunk.js.map",
+    "static/js/2.038b94cb.chunk.js": "/static/js/2.038b94cb.chunk.js",
+    "static/js/2.038b94cb.chunk.js.map": "/static/js/2.038b94cb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cf6a9b55.chunk.css.map": "/static/css/main.cf6a9b55.chunk.css.map",
-    "static/js/2.0a13b856.chunk.js.LICENSE.txt": "/static/js/2.0a13b856.chunk.js.LICENSE.txt",
-    "static/media/dashboard.9323b6bd.png": "/static/media/dashboard.9323b6bd.png",
+    "static/css/main.5ccdba69.chunk.css.map": "/static/css/main.5ccdba69.chunk.css.map",
+    "static/js/2.038b94cb.chunk.js.LICENSE.txt": "/static/js/2.038b94cb.chunk.js.LICENSE.txt",
     "static/media/dna.72bcf2ea.png": "/static/media/dna.72bcf2ea.png",
-    "static/media/files.666f5a52.png": "/static/media/files.666f5a52.png",
+    "static/media/helmholtz.a1f90967.png": "/static/media/helmholtz.a1f90967.png",
     "static/media/logo-blue.c912446f.png": "/static/media/logo-blue.c912446f.png",
     "static/media/logo.a8b3a51b.svg": "/static/media/logo.a8b3a51b.svg",
     "static/media/meta_data.58353412.txt": "/static/media/meta_data.58353412.txt",
-    "static/media/science.c809231f.png": "/static/media/science.c809231f.png",
+    "static/media/processing.ed520e72.png": "/static/media/processing.ed520e72.png",
+    "static/media/results.24ccf56c.png": "/static/media/results.24ccf56c.png",
+    "static/media/rostlab.328da955.png": "/static/media/rostlab.328da955.png",
+    "static/media/science.ae60a04b.png": "/static/media/science.ae60a04b.png",
     "static/media/umap_data.25d45ad8.txt": "/static/media/umap_data.25d45ad8.txt",
+    "static/media/upload.c25c0640.png": "/static/media/upload.c25c0640.png",
     "static/media/user.328eeb8e.png": "/static/media/user.328eeb8e.png",
-    "static/media/visual.9c9cac24.png": "/static/media/visual.9c9cac24.png"
+    "static/media/working.7612db83.png": "/static/media/working.7612db83.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a47980ea.js",
-    "static/js/2.0a13b856.chunk.js",
-    "static/css/main.cf6a9b55.chunk.css",
-    "static/js/main.a4eb150b.chunk.js"
+    "static/js/2.038b94cb.chunk.js",
+    "static/css/main.5ccdba69.chunk.css",
+    "static/js/main.2a348285.chunk.js"
   ]
 }
